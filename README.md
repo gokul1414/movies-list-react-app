@@ -42,3 +42,29 @@ Feel free to also download the project and work on it in localhost if you prefer
 
 [create-react-app]: https://create-react-app.dev
 [Express]: https://expressjs.com/e
+
+
+
+
+<--------------------------------------------------------------------------------------------------------------------->
+
+1. https://devsnap.me/css-scroll-effects
+
+2. https://unsplash.com/photos/jLwVAUtLOAQ
+
+3. https://www.jotform.com/form-templates/category/upload-forms
+
+4.https://uiverse.io/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
